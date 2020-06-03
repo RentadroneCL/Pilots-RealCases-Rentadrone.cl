@@ -10,7 +10,11 @@ Sample Size
 M2
 
 Results and Takeaways
+
 Mission 1: 504 multispectral  images
+
 Mission 2: 288 multispectral  images
+
 Mission 3: 552 multispectral  images
+
 Mission 4: 216 multispectral  images
