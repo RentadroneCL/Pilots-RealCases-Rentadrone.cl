@@ -3,3 +3,5 @@ For the construction of the multispectral orthomaps (For each spectral band and 
 OpenDroneMap: Drone Mapping Software
 
 https://www.opendronemap.org/
+
+To review the orthomaps, enter each folder corresponding to each quarter of the vineyard
