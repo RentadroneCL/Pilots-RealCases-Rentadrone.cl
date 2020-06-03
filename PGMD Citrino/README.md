@@ -1,16 +1,16 @@
-Multi-spectral photography in vineyard "Viña Casas del Bosque" (Chile)
+Classification of failure in photovoltaic panels of a "Citrino" Solar Plant (Chile)
 
 Date Conducted
-19-02-2020
+03-09-2020 to 03-11-2020
 
 Purpose
-Collect multispectral data for a vineyard, to be used in the design of a platform to detect problems in crops
+Test automatic algorithm for detecting faults in photovoltaic panels in a real case
 
 Sample Size
-M2
+414 Aerial Thermal Images .rjpg
+
+For inspection of 8.848 photovoltaic panels
 
 Results and Takeaways
-Mission 1: 504 multispectral  images
-Mission 2: 288 multispectral  images
-Mission 3: 552 multispectral  images
-Mission 4: 216 multispectral  images
+One (1) single panel with fault present was detected
+Incluir enlace al informe o pantallas y data
