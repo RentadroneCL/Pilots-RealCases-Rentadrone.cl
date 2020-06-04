@@ -18,3 +18,7 @@ Mission 2: 288 multispectral  images
 Mission 3: 552 multispectral  images
 
 Mission 4: 216 multispectral  images
+
+Images repository in Google Drive:
+
+https://drive.google.com/drive/folders/1EWKlOURmvkoM-JA4aeOsaS6Zmt2C_8Oj
