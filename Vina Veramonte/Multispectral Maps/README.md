@@ -4,4 +4,6 @@ OpenDroneMap: Drone Mapping Software
 
 https://www.opendronemap.org/
 
-To review the orthomaps, enter each folder corresponding to each "Barrack" of the vineyard and download each one.
+To review the orthomaps, enter each folder corresponding to each "Barrack" of the vineyard and download each one. To view the files you can use the Open Source QGIS application
+
+https://www.qgis.org/es/site/
