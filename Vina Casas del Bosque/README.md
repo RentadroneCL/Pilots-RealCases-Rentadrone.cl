@@ -30,7 +30,7 @@ MULTISPECTRAL & VEGETATION IDEX ORTHOMAPS
 
   Maps repository in Google Drive:
   
-  https://drive.google.com/drive/u/1/folders/1P-ajeQ4R1vjrCsWC-OHuusu_Z32eQcb_
+  https://drive.google.com/open?id=1P-ajeQ4R1vjrCsWC-OHuusu_Z32eQcb_
 
   For the construction of the multispectral orthomaps (For each spectral band and for each Vegetation index) the Open Source  application    has been used is OpenDroneMap: Drone Mapping Softwar (https://www.opendronemap.org/)
 
