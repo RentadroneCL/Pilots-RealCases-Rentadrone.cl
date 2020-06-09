@@ -7,7 +7,9 @@ Multi-spectral photography in vineyard "Viña Casas del Bosque" (Chile)
   Collect multispectral data for a vineyard, to be used in the design of a platform to detect problems in crops
 
   Sample Size
-  M2
+    Areas:
+      Barrack A = 5.29 Ha
+      Barrack B = 5.92 Ha
 
   Results and Takeaways
 
