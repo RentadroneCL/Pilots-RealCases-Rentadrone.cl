@@ -25,7 +25,7 @@ MULTISPECTRAL IMAGES
 
   https://drive.google.com/drive/folders/1pixRaOwABZCZDHyoi78FpJwAVgwdc-cd?usp=sharing
 
-MULTISPECTRAL & VEGETATION IDEX ORTHOMAPS
+MULTISPECTRAL & VEGETATION INDEX ORTHOMAPS
 
   Maps repository in Google Drive:
 
