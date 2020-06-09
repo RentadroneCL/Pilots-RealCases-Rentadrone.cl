@@ -6,8 +6,11 @@ Date Conducted
 Purpose
 Collect multispectral data for a vineyard, to be used in the design of a platform to detect problems in crops
 
-Sample Size
-M2
+Sample Size: 
+  Areas:
+    Barrack A = 3.93 Ha
+    Barrack B = 3.78 Ha
+    Barrack C = 4.68 Ha
 
   Results and Takeaways
 
