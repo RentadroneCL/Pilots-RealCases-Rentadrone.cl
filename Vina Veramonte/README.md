@@ -9,13 +9,13 @@ Collect multispectral data for a vineyard, to be used in the design of a platfor
 Sample Size
 M2
 
-Results and Takeaways
+  Results and Takeaways
 
-  Mission 1: 1032 multispectral  images
+    Mission 1: 1032 multispectral  images
 
-  Mission 2: 1104 multispectral  images
+    Mission 2: 1104 multispectral  images
 
-  Mission 3: 1194 multispectral  images
+    Mission 3: 1194 multispectral  images
 
 Images repository in Google Drive:
 
